@@ -6,7 +6,8 @@ public class class1 {
 		// TODO Auto-generated method stub
 		System.out.println("Connect GitHub");
 		System.out.println("Second commit");
-		System.out.println("commit on jan25 from github");
+		System.out.println("newBranch");
+		
 		
 	}
 
