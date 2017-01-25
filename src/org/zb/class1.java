@@ -9,7 +9,8 @@ public class class1 {
 		System.out.println("newBranch");
 		System.out.println("1111");
 		System.out.println("3333");
-		System.out.println("4444_4");
+		System.out.println("Update stream from local-New Master");
+		
 
 		
 	}
